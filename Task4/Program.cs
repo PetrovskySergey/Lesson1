@@ -22,7 +22,7 @@ if (e > max)
 {
     max = e;
 }
-Console.Writeline(max);
+Console.WriteLine(max);
 
 
 
