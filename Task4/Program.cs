@@ -1,8 +1,8 @@
-﻿int a = 6;
+﻿int a = 12;
 int b = 7;
 int c = 9;
 int d = 4;
-int e = 10;
+int e = 2;
 
 int max = a;
 
@@ -22,7 +22,7 @@ if (e > max)
 {
     max = e;
 }
-Console.Writeline(max);
+Console.WriteLine(max);
 
 
 
